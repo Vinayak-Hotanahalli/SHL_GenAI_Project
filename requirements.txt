@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+scikit-learn
+rank_bm25
+tqdm
+cross-encoders==0.1.4
+python-multipart
+openpyxl
